@@ -14,6 +14,39 @@
         android:theme="@style/Theme.Ws"
         tools:targetApi="31">
         <activity
+            android:name=".ws09"
+            android:exported="false" />
+        <activity
+            android:name=".ws08"
+            android:exported="false" />
+        <activity
+            android:name=".ws07"
+            android:exported="false" />
+        <activity
+            android:name=".ws06"
+            android:exported="false" />
+        <activity
+            android:name=".ws05"
+            android:exported="false" />
+        <activity
+            android:name=".ws04"
+            android:exported="false" />
+        <activity
+            android:name=".ws03"
+            android:exported="false" />
+        <activity
+            android:name=".ws02"
+            android:exported="false" />
+        <activity
+            android:name=".ws01"
+            android:exported="false" />
+        <activity
+            android:name=".ws00"
+            android:exported="false" />
+        <activity
+            android:name=".ws0"
+            android:exported="false" />
+        <activity
             android:name=".Join"
             android:exported="false" />
         <activity
